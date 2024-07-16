@@ -1,8 +1,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {ADS} na {INFNET}.
-- 🌱 Aprendendo mais sobre {HTML, CSS, JS, REACT}.
+- 🎓 Estudando ADS na INFNET.
+- 🌱 Aprendendo mais sobre HTML, CSS, JS, REACT.
 
 ## Minhas Skills
 
