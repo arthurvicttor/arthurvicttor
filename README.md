@@ -24,8 +24,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
-<br/>
-
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-arthurvictorsa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurvictorsa/)](https://www.linkedin.com/in/arthurvictorsa/)
