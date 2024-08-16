@@ -24,7 +24,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 ## 📫 Contato
 
 ![Gmail Badge](https://img.shields.io/badge/-{arthurvicttorpe@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{arthurvicttorpe@gmail.com})
-[![Linkedin: Arthur](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurvictorsa/)](https://www.linkedin.com/in/arthurvictorsa/)
+[![Linkedin: Arthur](https://img.shields.io/badge/-arthurvictorsa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurvictorsa/)](https://www.linkedin.com/in/arthurvictorsa/)
 <br><br>
 
 ![Arthur Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvicttor&show_icons=true&theme=dark) <br><br>
