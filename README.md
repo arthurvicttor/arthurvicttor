@@ -1,31 +1,32 @@
-## Sobre mim
+# 👋 Olá, eu sou Arthur Victor
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando ADS na INFNET.
-- 🌱 Aprendendo mais sobre HTML, CSS, JS, REACT.
+## 💼 Perfil Profissional
 
-## Minhas Skills
+- 💻 Estudante de Programação
+- 🌱 Apaixonado por Tecnologia
+- 🎓 Cursando [ADS / Infnet]
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+## 🚀 Habilidades
 
-**DevOps**
+Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,php)](https://skillicons.dev)
 
-**Ferramentas de desenvolvimento**
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)<br><br>
 
-## Onde me encontrar
+## 📫 Contato
 
-[![Linkedin](https://img.shields.io/badge/-arthurvictorsa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurvictorsa/)](https://www.linkedin.com/in/arthurvictorsa/)
-[![Gmail Badge](https://img.shields.io/badge/-arthurvicttorpe@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurvicttorpe@gmail.com)](mailto:arthurvicttorpe@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/arthurvicttor?label=follow&style=social)](https://github.com/arthurvicttor)
+![Gmail Badge](https://img.shields.io/badge/-{arthurvicttorpe@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{arthurvicttorpe@gmail.com})
+[![Linkedin: Arthur](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurvictorsa/)](https://www.linkedin.com/in/arthurvictorsa/)
+<br><br>
+
+![Arthur Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurvicttor&show_icons=true&theme=dark) <br><br>
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊
