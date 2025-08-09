@@ -26,4 +26,11 @@
 ---
 
 ## 📂 Projetos em destaque
-Veja mais no meu [Portfól]()
+Veja mais no meu [Portfólio](https://arthurvicttor.github.io/portifolio-arthurvictor/) e [GitHub](https://github.com/arthurvicttor).
+
+---
+
+## 📫 Contato
+- **LinkedIn:** [linkedin.com/in/arthurvictorsa](https://www.linkedin.com/in/arthurvictorsa)
+- **Portfólio:** [arthurvicttor.github.io/portifolio-arthurvictor](https://arthurvicttor.github.io/portifolio-arthurvictor/)
+- **E-mail:** arthurvicttorpe@gmail.com
