@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Arthur Victor
 
 💻 **Desenvolvedor Full Stack** em formação, com experiência prática em projetos front-end e back-end.  
-🎯 Buscando minha primeira oportunidade como **Dev Júnior** para atuar no desenvolvimento de aplicações web completas.
+🎯 Buscando minha primeira oportunidade como **Dev Júnior** para atuar no desenvolvimento de aplicações completas.
 
 ---
 
