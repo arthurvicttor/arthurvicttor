@@ -37,7 +37,7 @@
 ---
 
 ## 📂 Projetos em destaque
-Veja mais no meu [Portfólio](https://arthurvicttor.github.io/portifolio-arthurvictor/) e [GitHub](https://github.com/arthurvicttor).
+Veja mais no meu [Portfólio](https://arthurvictorportifolio.netlify.app/) e [GitHub](https://github.com/arthurvicttor).
 
 ---
 
