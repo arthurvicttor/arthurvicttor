@@ -43,7 +43,7 @@ Veja mais no meu [Portfólio](https://arthurvictorportifolio.netlify.app/) e [Gi
 
 ## 📫 Contato
 - **LinkedIn:** [linkedin.com/in/arthurvictorsa](https://www.linkedin.com/in/arthurvictorsa)
-- **Portfólio:** [arthurvicttor.github.io/portifolio-arthurvictor](https://arthurvicttor.github.io/portifolio-arthurvictor/)
+- **Portfólio:** [arthurvictorportifolio.netlify.app/arthurvictorportifolio](https://arthurvictorportifolio.netlify.app/)
 - **E-mail:** arthurvicttorpe@gmail.com
 
 ---
