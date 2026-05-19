@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou o Arthur Victor
+# Olá, eu sou o Arthur Victor
 
 💻 **Desenvolvedor Full Stack** em formação, com experiência prática em projetos front-end e back-end.  
 🎯 Buscando minha primeira oportunidade como **Dev Júnior** para atuar no desenvolvimento de aplicações completas.
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,15 +36,14 @@
 
 ---
 
-## 📂 Projetos em destaque
+## Projetos em destaque
 Veja mais no meu [Portfólio](https://arthurvictorportifolio.netlify.app/) e [GitHub](https://github.com/arthurvicttor).
 
 ---
 
-## 📫 Contato
+## Contato
 - **LinkedIn:** [linkedin.com/in/arthurvictorsa](https://www.linkedin.com/in/arthurvictorsa)
 - **Portfólio:** [arthurvictorportifolio.netlify.app/arthurvictorportifolio](https://arthurvictorportifolio.netlify.app/)
 - **E-mail:** arthurvicttorpe@gmail.com
 
 ---
-⭐ *Sempre aberto a novas conexões, desafios e oportunidades na área de tecnologia!*
