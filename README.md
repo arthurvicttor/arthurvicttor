@@ -1,7 +1,6 @@
 # Olá, eu sou o Arthur Victor 👋
 
-**Desenvolvedor Full Stack em formação** · Engenharia de Software @ INFNET  
-📍 Juazeiro do Norte, CE · Remoto · 🇧🇷 PT | 🇺🇸 EN (B2)
+**Desenvolvedor Full Stack em formação**
 
 ---
 
