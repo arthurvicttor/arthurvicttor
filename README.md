@@ -1,49 +1,86 @@
-# Olá, eu sou o Arthur Victor
+# Olá, eu sou o Arthur Victor 👋
 
-💻 **Desenvolvedor Full Stack** em formação, com experiência prática em projetos front-end e back-end.  
-🎯 Buscando minha primeira oportunidade como **Dev Júnior** para atuar no desenvolvimento de aplicações completas.
+**Desenvolvedor Full Stack em formação** · Engenharia de Software @ INFNET  
+📍 Juazeiro do Norte, CE · Remoto · 🇧🇷 PT | 🇺🇸 EN (B2)
 
 ---
 
-## Tecnologias
+## Sobre mim
 
-### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+- 🎯 Buscando minha primeira oportunidade como **Dev Júnior ou Estagiário**
+- 🔗 Experiência prática em **integração de APIs REST**, regras de negócio e fluxos full stack
+- 📊 Projetos com **pipelines de dados**, SQL, análise exploratória e modelos preditivos
+- ☁️ Estudando **AWS** e arquitetura em nuvem
+- 🤝 Perfil orientado a qualidade: validação de fluxos, testes de cenários e análise de integrações
+
+---
+
+## Stack
 
 ### Back-end
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Front-end
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### Dados & Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=databricks&logoColor=white)
+
+### Integração & Ferramentas
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Foundations-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
 ## Projetos em destaque
-Veja mais no meu [Portfólio](https://arthurvictorportifolio.netlify.app/) e [GitHub](https://github.com/arthurvicttor).
+
+### 🔍 [DevLens — GitHub Profile Analyzer](https://github.com/arthurvicttor/devlens)
+> Aplicação full stack para coleta e análise de dados públicos via API REST do GitHub.
+
+- Integração com API REST externa: requisições HTTP, validação de JSON e tratamento de erros
+- Geração de indicadores de perfil com separação entre camadas de requisição e interface
+- **Stack:** JavaScript · REST API · Full Stack
+
+---
+
+### 📊 [Sales Data Pipeline](https://github.com/arthurvicttor/sales-data-pipeline)
+> Pipeline de dados end-to-end para análise e previsão de vendas.
+
+- ETL: extração, transformação e carga de dados para análise
+- Análise exploratória, visualização e treinamento de modelo preditivo
+- **Stack:** Python · ETL · Data Analysis · Machine Learning
+
+---
+
+### 🤖 [Chatbot Educacional Interativo](https://github.com/arthurvicttor/chatbot-educacional)
+> Simulação de interações conversacionais com lógica baseada em regras condicionais.
+
+- Fluxos de decisão com separação de camadas e validação de múltiplos cenários
+- **Stack:** JavaScript · Node.js
+
+---
+
+## Formação & Certificações
+
+🎓 **Engenharia de Software** — INFNET · 2024–2028 (em andamento)  
+📚 **Formação Full Stack** — Alura (APIs REST, banco de dados, integração backend)  
+☁️ **AWS Foundations** — em andamento
 
 ---
 
 ## Contato
-- **LinkedIn:** [linkedin.com/in/arthurvictorsa](https://www.linkedin.com/in/arthurvictorsa)
-- **Portfólio:** [arthurvictorportifolio.netlify.app/arthurvictorportifolio](https://arthurvictorportifolio.netlify.app/)
-- **E-mail:** arthurvicttorpe@gmail.com
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurvictorsa/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=flat&logo=netlify&logoColor=white)](https://arthurvictorportifolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arthurvicttorpe@gmail.com)
