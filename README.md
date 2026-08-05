@@ -67,7 +67,7 @@
 > Simulação de interações conversacionais com lógica baseada em regras condicionais.
 
 - Fluxos de decisão com separação de camadas e validação de múltiplos cenários
-- **Stack:** JavaScript · Node.js
+- **Stack:** JavaScript · Node.js · Ollama
 
 ---
 
