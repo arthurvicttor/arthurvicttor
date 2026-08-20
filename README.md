@@ -75,7 +75,7 @@
 
 🎓 **Engenharia de Software** — INFNET · 2024–2028 (em andamento)  
 📚 **Formação Full Stack** — Alura (APIs REST, banco de dados, integração backend)  
-☁️ **AWS Foundations** — em andamento
+☁️ **AWS Foundations** — Oracle (em andamento)
 
 ---
 
