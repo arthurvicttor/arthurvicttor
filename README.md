@@ -1,4 +1,4 @@
-# Olá, eu sou o Arthur Victor Sá
+# Olá, eu sou o Arthur Victor
 
 **Desenvolvedor Full Stack em formação**
 
