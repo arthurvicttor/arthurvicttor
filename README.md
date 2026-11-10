@@ -1,4 +1,4 @@
-# Olá, eu sou Arthur Victor! 👋
+# Olá, eu sou Arthur Victor! 
 
 ### Desenvolvedor Full Stack em formação | Back-end • APIs REST • Engenharia de Software
 
